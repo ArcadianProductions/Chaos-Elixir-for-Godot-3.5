@@ -1,0 +1,11 @@
+This game is not only unfinished but also abandoned so it is very buggy, play with caution
+
+Controls
+Z - Shoot
+X - Jump
+F - Pause
+G - Activate Debug Mode, use whenever you're stuck or need to get past something that is causing a roadblock in gameplay
+
+Pg Up/Down - Change color palette
+
+This game only includes the Grasslands stage and Mari boss fight
